@@ -26,3 +26,12 @@ for (let i=2; i < n; i++){
 
 //part3===============Feeling Loopy===============================
 
+//let arry1 = ["ID", "name", "occupation", "age"];
+let arry2 = [42, "Bruce", "Knight", 41];
+let arry3 = [57, "Bob", "Fry Cook", 19];
+let arry4 = [63, "Blaine", "Quiz Master", 58];
+let arry5 = [98, "Bill", "Doctor's Assistant", 26];
+//Saving each row of data in an array
+
+
+
